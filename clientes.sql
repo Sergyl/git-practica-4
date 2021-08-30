@@ -7,3 +7,4 @@
       edad int,
       direccion varchar(50)
    );
+   select * from clientes;
